@@ -3,6 +3,6 @@ using namespace std;
 int main(){
     int a=24;
     int b=6;
-    cout<<a/b<<endl;
+    cout<<"When we divide a by b we get "<<a/b<<endl;
     return 0;
 }
